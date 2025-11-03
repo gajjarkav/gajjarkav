@@ -27,23 +27,23 @@ I'm a **B.Tech Computer Science Engineering student** (Currently in 3rd Year, 6t
 ### 🏭 **Vishwakarma Mech Fab** - Manufacturing Website (2nd Semester)
 *My first deployed full-stack project!* 🚀  
 🔗 [vishwakarmamechfab.in](https://vishwakarmamechfab.in)
-- � Fully responsive design
-- 👥 Frontend collaboration with a partner, backend & deployment handled independently
+-  Fully responsive design
+-  Frontend collaboration with a partner, backend & deployment handled independently
 
 ### 🤖 **AI Agents** - Intelligent Terminal Agents (2 Projects)
 Advanced AI agents with RAG capabilities and multi-tool integration.
-- 🔍 RAG-powered web search and weather tools
-- 📝 File operations and conversational AI
+-  RAG-powered web search and weather tools
+-  File operations and conversational AI
 
 ### 🌐 **Eresh Engineering** - Business Website
 🔗 [ereshengineering.co.in](https://ereshengineering.co.in)
-- 📱 Responsive and SEO optimized
-- 🤖 AI-assisted development with VibeCoding
+-  Responsive and SEO optimized
+-  With other extra features 
 
 ### ☁️ **Weather Platform** - Mini Project
 Real-time weather application with user authentication.
-- 📱 Responsive design with Tailwind CSS
-- 🔐 User authentication system
+-  Responsive design with Tailwind CSS
+-  User authentication system
 
 ---
 
