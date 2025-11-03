@@ -26,7 +26,7 @@ I'm a **B.Tech Computer Science Engineering student** (Currently in 3rd Year, 6t
 
 ### 🏭 **Vishwakarma Mech Fab** - Manufacturing Website (2nd Semester)
 *My first deployed full-stack project!* 🚀  
-🔗 [https://vishwakrmamechfab.in](https://vishwakrmamechfab.in)
+🔗 [vishwakarmamechfab.in](https://vishwakarmamechfab.in)
 - � Fully responsive design
 - 👥 Frontend collaboration with a partner, backend & deployment handled independently
 
@@ -36,7 +36,7 @@ Advanced AI agents with RAG capabilities and multi-tool integration.
 - 📝 File operations and conversational AI
 
 ### 🌐 **Eresh Engineering** - Business Website
-🔗 [https://ereshengineering.co.in](https://ereshengineering.co.in)
+🔗 [ereshengineering.co.in](https://ereshengineering.co.in)
 - 📱 Responsive and SEO optimized
 - 🤖 AI-assisted development with VibeCoding
 
@@ -225,10 +225,10 @@ class KavyGajjar:
         
     def learning_journey(self):
         return {
-            "2nd_semester": [
+            "1at_semester": [
                 "Started with Django, HTML, CSS",
                 "First deployment: vishwakrmamechfab.in",
-                "Learned SMTP, SQLite, Render deployment"
+                "Learned DJango, SMTP, SQLite, Render deployment"
             ],
             "1_year_ago": [
                 "Discovered LangChain and AI agents",
@@ -236,8 +236,7 @@ class KavyGajjar:
                 "Worked with vector databases (ChromaDB)"
             ],
             "current": [
-                "Building multi-tool AI agents",
-                "Exploring LangGraph & CrewAI"
+                "Building multi-tool AI agents"
             ]
         }
     
