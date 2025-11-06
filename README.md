@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-kavy.dev-3776AB?style=flat-square&logo=google-chrome&logoColor=white)](https://kavy.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gajjarkav-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gajjarkav)
 [![GitHub](https://img.shields.io/badge/GitHub-gajjarkav-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gajjarkav)
-[![Kaggle](https://img.shields.io/badge/Kaggle-gajjarkaavy-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/gajjarkaavy)
+[![Kaggle](https://img.shields.io/badge/Kaggle-gajjarkavy-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/gajjarkavy)
 
 ---
 
@@ -13,7 +13,7 @@ I'm a **B.Tech Computer Science Engineering student** (Currently in 3rd Year, 6t
 
 - 🎓 **B.Tech CSE** - 3rd Year (6th Semester)
 - 🔭 Currently working on **AI Agent Systems** and **RAG-powered Applications**
-- 💻 **2+ Years** of hands-on development experience (Since 2nd Semester)
+- 💻 **2+ Years** of hands-on development experience (Since 1st Semester)
 - 🤖 **1+ Year** of experience with **LangChain** and AI agent development
 - 🌱 Building production-ready **SaaS platforms** and **AI-powered tools**
 - 💡 Passionate about **Machine Learning**, **LangChain**, and **Web Development**
